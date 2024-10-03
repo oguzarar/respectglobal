@@ -46,6 +46,7 @@ footer {
     background-color: #282a35;
     height: 420px;
     width: 100%; 
+    bottom: 0px;
 }
 .footer-img{
     width: 250px;
